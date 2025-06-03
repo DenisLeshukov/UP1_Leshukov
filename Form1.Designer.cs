@@ -29,6 +29,7 @@ namespace Shop_play_Leshukov
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
             this.panel1 = new System.Windows.Forms.Panel();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -284,12 +285,46 @@ namespace Shop_play_Leshukov
             this.практика2ToolStripMenuItem.Name = "практика2ToolStripMenuItem";
             this.практика2ToolStripMenuItem.Size = new System.Drawing.Size(80, 20);
             this.практика2ToolStripMenuItem.Text = "Практика 2";
+=======
+            this.button1 = new System.Windows.Forms.Button();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.button2 = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(39, 58);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 0;
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Location = new System.Drawing.Point(317, 58);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(418, 290);
+            this.listBox1.TabIndex = 1;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(39, 325);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 2;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+>>>>>>> 7ea178c4040874ed38808f0754178368b47f1eda
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+<<<<<<< HEAD
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
@@ -304,10 +339,19 @@ namespace Shop_play_Leshukov
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
+=======
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.button1);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.ResumeLayout(false);
+>>>>>>> 7ea178c4040874ed38808f0754178368b47f1eda
 
         }
 
         #endregion
+<<<<<<< HEAD
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
@@ -331,6 +375,12 @@ namespace Shop_play_Leshukov
         private System.Windows.Forms.ToolStripMenuItem практика2ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem показатьToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem скрытьToolStripMenuItem;
+=======
+
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.Button button2;
+>>>>>>> 7ea178c4040874ed38808f0754178368b47f1eda
     }
 }
 

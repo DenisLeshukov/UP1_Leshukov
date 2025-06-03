@@ -2,27 +2,37 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+<<<<<<< HEAD
 using System.Diagnostics;
+=======
+>>>>>>> 7ea178c4040874ed38808f0754178368b47f1eda
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+<<<<<<< HEAD
 using static System.Net.Mime.MediaTypeNames;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ProgressBar;
+=======
+>>>>>>> 7ea178c4040874ed38808f0754178368b47f1eda
 
 namespace Shop_play_Leshukov
 {
     public partial class Form1 : Form
     {
+<<<<<<< HEAD
         private Dictionary<string, int> Basket = new Dictionary<string, int>();
         List<string> names = new List<string>();
+=======
+>>>>>>> 7ea178c4040874ed38808f0754178368b47f1eda
         public Form1()
         {
             InitializeComponent();
         }
         Shop pyaterochka = new Shop();
+<<<<<<< HEAD
 
 
         
@@ -128,6 +138,36 @@ namespace Shop_play_Leshukov
         private void Скрыть_практику1(object sender, EventArgs e) // скрыть практику 1
         {
             panel1.Visible = false;
+=======
+        List<string> productText = new List<string>();
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+           
+            pyaterochka.CreateProduct("Кола", 85, 200);
+            pyaterochka.CreateProduct("Сок \"Добрый\"", 100, 10); List<string> podtit = pyaterochka.WriteAllProducts();
+            
+            foreach (var prod in podtit)
+            {
+                listBox1.Items.Add(prod);
+            }
+           
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string text = "";
+            
+            pyaterochka.Sell("Сок \"Добрый\"", ref text);
+            productText = pyaterochka.WriteAllProducts();
+            listBox1.Items.Clear();
+            foreach(var product in productText)
+            {
+                listBox1.Items.Add(product);
+            }
+            if (text != string.Empty)
+                MessageBox.Show(text);
+>>>>>>> 7ea178c4040874ed38808f0754178368b47f1eda
         }
     }
 }

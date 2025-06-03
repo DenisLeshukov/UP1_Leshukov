@@ -3,13 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< HEAD
 using System.Windows.Forms;
+=======
+>>>>>>> 7ea178c4040874ed38808f0754178368b47f1eda
 
 namespace Shop_play_Leshukov
 {
     class Shop
     {
         private Dictionary<Product, int> products;
+<<<<<<< HEAD
         private double profit;//прибыль
         public Shop()
         {
@@ -24,10 +28,37 @@ namespace Shop_play_Leshukov
             products.Add(product, count);
         }
         public void CreateProduct(string name, decimal price, int count)//Созданиепродукта
+=======
+
+        public Shop()
+        {
+            products = new Dictionary<Product, int>();
+        }
+
+        public void AddProduct(Product product, int count)
+        {
+            products.Add(product,count);
+        }
+
+        public List<string> WriteAllProducts()
+        {
+            List<string> podtit = new List<string>();
+            
+            string title = "";
+            foreach (var product in products)
+            {
+                podtit.Add(product.Key.GetInfo() + "Количество " + product.Value);
+            }
+            return podtit;
+        }
+
+        public void CreateProduct(string name, decimal price, int count)
+>>>>>>> 7ea178c4040874ed38808f0754178368b47f1eda
         {
             products.Add(new Product(name, price), count);
         }
 
+<<<<<<< HEAD
         public string WriteAllProducts()//вывод всех продуктов
         {
             string s = "";
@@ -40,6 +71,41 @@ namespace Shop_play_Leshukov
             return s;
         }
         public Product FindByName(string name)//Нахождение совпадений товаров по имени
+=======
+        public void Sell(Product product, ref string text)
+        {
+            if (products.ContainsKey(product))
+            {
+                if (products[product] == 0)
+                {
+                    text = "Нет в наличии";
+                }
+                else
+                {
+                    products[product]--;
+                }
+            }
+            else
+            {
+                text = "Товар не найден";
+            }
+        }
+        public void Sell(string ProductName, ref string text)
+        {
+            string t = "";
+            Product ToSell = FindByName(ProductName);
+            if (ToSell != null)
+            {
+                this.Sell(ToSell,ref t);
+                text = t;
+            }
+            else
+            {
+                text = "Товар не найден";
+            }
+        }
+        public Product FindByName(string name)
+>>>>>>> 7ea178c4040874ed38808f0754178368b47f1eda
         {
             foreach (var product in products.Keys)
             {
@@ -50,6 +116,7 @@ namespace Shop_play_Leshukov
             }
             return null;
         }
+<<<<<<< HEAD
         public void Sell(string ProductName, int count)//Перегрузка продажа товара
         {
             Product ToSell = FindByName(ProductName);
@@ -140,5 +207,7 @@ namespace Shop_play_Leshukov
         {
             profit -= price * count / Coefficient;
         }
+=======
+>>>>>>> 7ea178c4040874ed38808f0754178368b47f1eda
     }
 }
