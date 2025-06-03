@@ -1,0 +1,10 @@
+C:\Users\305-4\source\repos\Shop_play_Leshukov\bin\Debug\Shop_play_Leshukov.exe.config
+C:\Users\305-4\source\repos\Shop_play_Leshukov\bin\Debug\Shop_play_Leshukov.exe
+C:\Users\305-4\source\repos\Shop_play_Leshukov\bin\Debug\Shop_play_Leshukov.pdb
+C:\Users\305-4\source\repos\Shop_play_Leshukov\obj\Debug\Shop_play_Leshukov.csproj.AssemblyReference.cache
+C:\Users\305-4\source\repos\Shop_play_Leshukov\obj\Debug\Shop_play_Leshukov.Form1.resources
+C:\Users\305-4\source\repos\Shop_play_Leshukov\obj\Debug\Shop_play_Leshukov.Properties.Resources.resources
+C:\Users\305-4\source\repos\Shop_play_Leshukov\obj\Debug\Shop_play_Leshukov.csproj.GenerateResource.cache
+C:\Users\305-4\source\repos\Shop_play_Leshukov\obj\Debug\Shop_play_Leshukov.csproj.CoreCompileInputs.cache
+C:\Users\305-4\source\repos\Shop_play_Leshukov\obj\Debug\Shop_play_Leshukov.exe
+C:\Users\305-4\source\repos\Shop_play_Leshukov\obj\Debug\Shop_play_Leshukov.pdb
