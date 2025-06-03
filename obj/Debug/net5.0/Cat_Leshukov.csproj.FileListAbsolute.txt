@@ -1,0 +1,16 @@
+C:\Users\305-4\source\repos\Cat_Leshukov\bin\Debug\net5.0\Cat_Leshukov.exe
+C:\Users\305-4\source\repos\Cat_Leshukov\bin\Debug\net5.0\Cat_Leshukov.deps.json
+C:\Users\305-4\source\repos\Cat_Leshukov\bin\Debug\net5.0\Cat_Leshukov.runtimeconfig.json
+C:\Users\305-4\source\repos\Cat_Leshukov\bin\Debug\net5.0\Cat_Leshukov.runtimeconfig.dev.json
+C:\Users\305-4\source\repos\Cat_Leshukov\bin\Debug\net5.0\Cat_Leshukov.dll
+C:\Users\305-4\source\repos\Cat_Leshukov\bin\Debug\net5.0\ref\Cat_Leshukov.dll
+C:\Users\305-4\source\repos\Cat_Leshukov\bin\Debug\net5.0\Cat_Leshukov.pdb
+C:\Users\305-4\source\repos\Cat_Leshukov\obj\Debug\net5.0\Cat_Leshukov.csproj.AssemblyReference.cache
+C:\Users\305-4\source\repos\Cat_Leshukov\obj\Debug\net5.0\Cat_Leshukov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-4\source\repos\Cat_Leshukov\obj\Debug\net5.0\Cat_Leshukov.AssemblyInfoInputs.cache
+C:\Users\305-4\source\repos\Cat_Leshukov\obj\Debug\net5.0\Cat_Leshukov.AssemblyInfo.cs
+C:\Users\305-4\source\repos\Cat_Leshukov\obj\Debug\net5.0\Cat_Leshukov.csproj.CoreCompileInputs.cache
+C:\Users\305-4\source\repos\Cat_Leshukov\obj\Debug\net5.0\Cat_Leshukov.dll
+C:\Users\305-4\source\repos\Cat_Leshukov\obj\Debug\net5.0\ref\Cat_Leshukov.dll
+C:\Users\305-4\source\repos\Cat_Leshukov\obj\Debug\net5.0\Cat_Leshukov.pdb
+C:\Users\305-4\source\repos\Cat_Leshukov\obj\Debug\net5.0\Cat_Leshukov.genruntimeconfig.cache
