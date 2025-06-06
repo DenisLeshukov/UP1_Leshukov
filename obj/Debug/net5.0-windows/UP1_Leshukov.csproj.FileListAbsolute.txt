@@ -1,0 +1,17 @@
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\bin\Debug\net5.0-windows\UP1_Leshukov.exe
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\bin\Debug\net5.0-windows\UP1_Leshukov.deps.json
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\bin\Debug\net5.0-windows\UP1_Leshukov.runtimeconfig.json
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\bin\Debug\net5.0-windows\UP1_Leshukov.runtimeconfig.dev.json
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\bin\Debug\net5.0-windows\UP1_Leshukov.dll
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\bin\Debug\net5.0-windows\UP1_Leshukov.pdb
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\obj\Debug\net5.0-windows\UP1_Leshukov.Form1.resources
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\obj\Debug\net5.0-windows\UP1_Leshukov.csproj.GenerateResource.cache
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\obj\Debug\net5.0-windows\UP1_Leshukov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\obj\Debug\net5.0-windows\UP1_Leshukov.AssemblyInfoInputs.cache
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\obj\Debug\net5.0-windows\UP1_Leshukov.AssemblyInfo.cs
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\obj\Debug\net5.0-windows\UP1_Leshukov.csproj.CoreCompileInputs.cache
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\obj\Debug\net5.0-windows\UP1_Leshukov.dll
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\obj\Debug\net5.0-windows\refint\UP1_Leshukov.dll
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\obj\Debug\net5.0-windows\UP1_Leshukov.pdb
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\obj\Debug\net5.0-windows\UP1_Leshukov.genruntimeconfig.cache
+C:\Users\Leshu\OneDrive\Рабочий стол\zd1_Demin-secondmain\obj\Debug\net5.0-windows\ref\UP1_Leshukov.dll
